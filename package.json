@@ -1,0 +1,17 @@
+{
+  "name": "ReactNextJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:to6esko/ReactNextJS.git",
+    "type": "git"
+  },
+  "author": "Todor Krastev <to6esko69@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^1.2.3"
+  },
+  "scripts": {
+    "dev":"next"
+  }
+}
